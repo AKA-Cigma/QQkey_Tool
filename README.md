@@ -31,6 +31,7 @@
 # 目录
 
 - [QQkey_Tool](#qqkey_tool)
+  - [使用文档](https://github.com/sun589/QQkey_Tool/blob/main/docs/using_docs.md)
   - [使用说明](#使用说明)
   - [项目结构](#项目结构)
   - [常见问题 Q&A](#常见问题-qa)
@@ -74,12 +75,17 @@
     │      get_client_key_new.py // QQ本地信息获取源码(新版)
     │      README.md
     │      
-    └─program_pics // 程序截图(旧版)
-            all.png // 程序整体界面截图
-            主界面1.png
-            主界面2.png  
+    ├─program_pics // 程序截图(旧版)
+    |       all.png // 程序整体界面截图
+    |       主界面1.png
+    |       主界面2.png  
+    |
+    ├─docs // 存放文档等文件
+    |       using_docs.md // 使用文档
 ****
 #  常见问题 Q&A
+## Q：如何使用?
+见[使用文档](https://github.com/sun589/QQkey_Tool/blob/main/docs/using_docs.md)
 ## Q:如何预防盗号病毒?
 ### A:详见 [预防盗号木马的方法](#预防盗号木马的方法)  
 
